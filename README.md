@@ -67,7 +67,7 @@ The dataset contains credit card applications with 691 entries and multiple feat
 
 ## Results
 
-![image]("https://github.com/SinkAnkit/SOM_Algorithm_22MIS1128_BDA_DA2/blob/main/som_grid.png")
+![SOM Grid](https://github.com/SinkAnkit/SOM_Algorithm_22MIS1128_BDA_DA2/raw/main/som_grid.png)
 
 ## Output
 
