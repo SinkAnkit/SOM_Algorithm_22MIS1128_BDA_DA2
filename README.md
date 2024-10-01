@@ -1,6 +1,8 @@
 # SOM_Algorithm_22MIS1128_BDA_DA2
 # Credit Card Fraud Detection using Self Organizing Maps (SOMs)
 
+##This is Ankit Singh 22MIS1128 with SWE2011- Big Data Analytics DA2
+
 ## Overview
 
 This project uses Self-Organizing Maps (SOMs), an unsupervised machine learning technique, to identify potential fraudulent credit card applications. SOMs are particularly useful for clustering and visualizing high-dimensional data in a lower-dimensional space. This project aims to spot anomalies or potential fraud by training a SOM on a dataset of credit card applications.
@@ -14,7 +16,7 @@ This project uses Self-Organizing Maps (SOMs), an unsupervised machine learning 
   
 ## Dataset
 
-The dataset contains credit card applications with 15 features, including customer IDs. The last column indicates whether the application was approved or not.
+The dataset contains credit card applications with 691 entries and multiple features, including customer IDs. The last column indicates whether the application was approved or not.
 
 - **Credit_Card_Applications_Datasets.csv**: A file that contains the dataset with features and labels.
 
