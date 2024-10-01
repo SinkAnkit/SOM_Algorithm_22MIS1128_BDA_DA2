@@ -67,7 +67,7 @@ The dataset contains credit card applications with 691 entries and multiple feat
 
 ## Results
 
-![Fraud Card pattern]("https://github.com/SinkAnkit/SOM_Algorithm_22MIS1128_BDA_DA2/blob/main/som_grid.png")
+![image]("https://github.com/SinkAnkit/SOM_Algorithm_22MIS1128_BDA_DA2/blob/main/som_grid.png")
 
 ## Output
 
