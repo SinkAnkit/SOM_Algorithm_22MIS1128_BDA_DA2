@@ -64,3 +64,20 @@ The dataset contains credit card applications with 691 entries and multiple feat
 5. **Visualize and Identify Frauds**:
 
     After training, the notebook visualizes the SOM and highlights the customers whose applications might be fraudulent. The potential fraudsters are printed out by customer ID.
+
+## Output
+
+The final output of the notebook will print the **Customer IDs** of potential fraudulent credit card applicants, allowing the financial institution to review these cases further.
+
+### Example Output:
+
+```bash
+Fraud Customer IDs:
+15720644
+15746258
+15700511
+15761158
+15666166
+15605872
+15665087
+
