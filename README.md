@@ -66,6 +66,7 @@ The dataset contains credit card applications with 691 entries and multiple feat
     After training, the notebook visualizes the SOM and highlights the customers whose applications might be fraudulent. The potential fraudsters are printed out by customer ID.
 
 ## Results
+
 ![Fraud Card pattern]("https://github.com/SinkAnkit/SOM_Algorithm_22MIS1128_BDA_DA2/blob/main/som_grid.png")
 
 ## Output
