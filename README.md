@@ -1,7 +1,7 @@
 # SOM_Algorithm_22MIS1128_BDA_DA2
 # Credit Card Fraud Detection using Self Organizing Maps (SOMs)
 
-##This is Ankit Singh 22MIS1128 with SWE2011- Big Data Analytics DA2
+## This is Ankit Singh 22MIS1128 with SWE2011- Big Data Analytics DA2
 
 ## Overview
 
